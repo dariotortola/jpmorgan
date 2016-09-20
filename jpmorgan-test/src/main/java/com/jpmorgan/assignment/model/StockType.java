@@ -8,5 +8,5 @@ package com.jpmorgan.assignment.model;
  *
  */
 public enum StockType {
-    COMMON, PREFERRED
+	COMMON, PREFERRED
 }
