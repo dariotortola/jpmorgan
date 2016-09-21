@@ -10,8 +10,8 @@ import java.util.Date;
  */
 public class Trade {
     private int amount;
-    /**
-     * TODO assumes only buy and sell, if more possibilities exist, it should be
+    /*
+     * assumes only buy and sell, if more possibilities exist, it should be
      * changed for an enumeration
      */
     private boolean buy;
